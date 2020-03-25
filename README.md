@@ -23,4 +23,4 @@ Python version: Python 3.6+, Pandas version: 0.24.2, Scikit Learn version: 0.22.
 # Note
 
 The results may be slightly different between each time running the code
-due to random selection data sample.
+due to random selected data sample.
