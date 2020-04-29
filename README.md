@@ -21,10 +21,15 @@ Python version: Python 3.6+, Pandas version: 0.24.2, Scikit Learn version: 0.22.
 	Integration.ipynp
 
 2. Please run the files in the folling order:
+
 	preperation.ipynp
+	
 	data_explore.ipynp
+	
 	feature_eng.ipynp
+	
 	classification.ipynp
+	
 	Integration.ipynp
 
 # Note
